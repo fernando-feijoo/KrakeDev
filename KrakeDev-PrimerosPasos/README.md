@@ -1,2 +1,4 @@
 # Reto 2 - Crear una página:
 Crear un archivo llamado reto2.html.  Su página debe incluir por lo menos 2 imágenes, 2 párrafos, 1 botón, 1 título y 2 hipervínculos que le permitan navegar a 2 páginas diferentes.  Construya la página de cualquier tema que le guste.  Suba 2 evidencias: una captura de la página funcionando en el navegador y una captura del código de la página, tomado del Visual Studio Code.
+# Reto 4 - Animales:
+Subir 3 capturas de pantalla que demuestren que cumpliste el Reto Animales. Además subir una captura de pantalla del código tomado del Visual Studio Code.
