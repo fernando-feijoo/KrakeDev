@@ -2,12 +2,6 @@
 let puntaje;
 puntaje = 0;
 
-iniciar = function () {
-  console.log("Llamando a la función.");
-  puntaje = 0;
-  console.log("El valor ha sido cambiado.");
-};
-
 cambiar = function () {
   puntaje = 1000;
 };
