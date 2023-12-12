@@ -1,0 +1,30 @@
+body {
+  background-image: url("../fondoImagen.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.opcion {
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+}
+
+.logo {
+  width: 200px;
+  margin: 20px;
+}
+
+.titulo {
+  display: flex;
+  justify-content: center;
+  font-size: 50px;
+  color: aqua;  
+}
+
+.acerca {
+  display: flex;
+  justify-content: flex-end;
+  color: aqua;
+  margin-right: 50px;
+}
