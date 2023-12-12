@@ -1,0 +1,43 @@
+body {
+  background-image: url("imagenFondo.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.titulo {
+  color: blueviolet;
+  display: flex;
+  justify-content: center;
+  font-size: 70px;
+}
+
+.contenedor-caja {
+  display: flex;
+  justify-content: center;
+  height: 50px;
+}
+
+.contenedor-caja input {
+  background-color: burlywood;
+  font-size: 30px;
+  text-align: center;
+}
+
+.resultado-operacion {
+  display: flex;
+  justify-content: center;
+  color: aqua;
+  text-decoration: double;
+  font-size: 30px;
+}
+
+.contenedor-boton {
+  display: flex;
+  justify-content: center;
+  height: 55px;
+}
+
+.contenedor-boton input{
+    font-size: 25px;
+    padding: 10px;
+}
